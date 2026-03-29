@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "crnimajmuni.aternos.me",
+    "port": 62953,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1487814073478545658/EanfKI4e9Bko5PFDtQMoVSx-xuFVTAy6wYcw5nc0rC0oeLzYtFTcIH_HQ6jGOaW2Kxpc",
     "events": {
       "connect": true,
       "disconnect": true,
